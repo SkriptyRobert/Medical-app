@@ -1,88 +1,82 @@
-# FireSphere 🔥
+FireSphere 🔥
 
-Interaktivní 3D webová aplikace vytvořená pomocí React a Three.js, demonstrující možnosti vizualizace a animací v prohlížeči.
+Interactive 3D web application built with React and Three.js, showcasing visualization and animation capabilities in the browser.
 
-## 🌟 Demo
+🌟 Demo
 
-Živá ukázka aplikace je dostupná na [Vercel](https://medical-app-alpha.vercel.app/)
+A live demo of the application is available on Vercel.
 
-## 🚀 Funkce
+🚀 Features
 
-- Úvodní animace s vesmírnou tématikou
-- Interaktivní 3D model srdce s možností rotace a přiblížení
-- Responzivní design pro všechna zařízení
-- Moderní UI s plynulými přechody
-- Kontaktní formulář s přímým propojením na email
+Intro Animation: Space-themed animated introduction.
+Interactive 3D Model: Explore a heart model with rotation and zoom capabilities.
+Responsive Design: Optimized for all devices.
+Modern UI: Sleek transitions and smooth interface.
+Contact Form: Direct integration with email.
 
-## 🛠️ Technologie
+🛠️ Technology Stack
 
-- React 18
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Vite
-- CSS3 s moderními funkcemi
+React 18
+Three.js
+React Three Fiber
+React Three Drei
+Vite
+CSS3 with modern features
 
-## 📦 Instalace a spuštění
+📦 Installation and Setup
 
-1. **Klonování repozitáře**
-   ```bash
-   git clone https://github.com/SkriptyRobert/Medical-app.git
-   cd Medical-app
-   ```
+Clone the repository: git clone https://github.com/SkriptyRobert/Medical-app.git  
+cd Medical-app  
 
-2. **Instalace závislostí**
-   ```bash
-   npm install
-   ```
+Install dependencies:
+npm install  
 
-3. **Spuštění vývojového serveru**
-   ```bash
-   npm run dev
-   ```
+Start the development server:
+npm run dev  
 
-4. **Build pro produkci**
-   ```bash
-   npm run build
-   ```
+Build for production:
+npm run build  
 
-## 🌐 Deployment
+🌐 Deployment
 
-Projekt je nakonfigurován pro snadný deployment na Vercel:
+The project is configured for seamless deployment on Vercel:
 
-1. Připojte GitHub repozitář k Vercel
-2. Vercel automaticky detekuje Vite konfiguraci
-3. Build a deployment proběhne automaticky
+Connect your GitHub repository to Vercel.
+Vercel will automatically detect the Vite configuration.
+Build and deployment will be automatic.
 
-## 🎮 Ovládání
+🎮 Controls
+Rotate model: Left mouse button + drag
+Zoom: Mouse wheel
+Pan: Right mouse button + drag
 
-- **Rotace modelu**: Levé tlačítko myši + tažení
-- **Zoom**: Kolečko myši
-- **Pan**: Pravé tlačítko myši + tažení
+📱 Responsiveness
+The application is fully responsive and optimized for:
 
-## 📱 Responzivita
+Desktops: (1200px+)
+Tablets: (768px - 1199px)
+Mobile Devices: (<768px)
 
-Aplikace je plně responzivní a optimalizovaná pro:
-- Desktopy (1200px+)
-- Tablety (768px - 1199px)
-- Mobilní zařízení (<768px)
+🤝 Contributing
 
-## 🤝 Přispívání
+Contributions are welcome! For significant changes, please open an issue first to discuss your proposed updates.
 
-Příspěvky jsou vítány! Pro větší změny prosím nejprve otevřete issue pro diskuzi o navrhovaných změnách.
-
-## 📄 Licence
-
+📄 License
 ISC License
 
-## 👤 Autor
-
+👤 Author
 Robert Pešout
-- Email: robert.pesout@gmail.com
-- GitHub: [@SkriptyRobert](https://github.com/SkriptyRobert)
 
-## 🙏 Poděkování
+Email: robert.pesout@gmail.com
+GitHub: @SkriptyRobert
 
-- Three.js komunita za skvělé nástroje a dokumentaci
-- React tým za vynikající framework
-- Vercel za hosting a deployment řešení
+🙏 Acknowledgments
+Three.js Community: For excellent tools and documentation.
+React Team: For the outstanding framework.
+Vercel: For hosting and deployment solutions.
+
+
+
+
+
+
