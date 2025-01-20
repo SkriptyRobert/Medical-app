@@ -1,19 +1,15 @@
 {
   "name": "fire-sphere",
-  "homepage": "https://<vaše-github-username>.github.io/fire-sphere",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "engines": {
     "node": ">=18.0.0"
   },
-  "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "NODE_ENV=production vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
