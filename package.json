@@ -20,13 +20,14 @@
     "@react-three/drei": "^9.121.2",
     "@react-three/fiber": "^8.17.12",
     "@react-three/postprocessing": "^2.19.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "three": "^0.160.1",
-    "three-stdlib": "^2.35.8"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.1"
   },
   "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
-    "vite": "^5.0.12"
+    "vite": "^5.0.8"
   }
 }
