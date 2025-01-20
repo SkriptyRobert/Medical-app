@@ -1,0 +1,11 @@
+Model Information:
+* title:	16 week fetal heart
+* source:	https://sketchfab.com/3d-models/16-week-fetal-heart-3064000481d44b02b75e6f2a3a7f843d
+* author:	Education Resource Fund (https://sketchfab.com/bobsmusail)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "16 week fetal heart" (https://sketchfab.com/3d-models/16-week-fetal-heart-3064000481d44b02b75e6f2a3a7f843d) by Education Resource Fund (https://sketchfab.com/bobsmusail) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
